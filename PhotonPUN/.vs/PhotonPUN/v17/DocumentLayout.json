@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MY GAMES\\PhotonPUN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FB9199-1A0B-DF5D-139B-8120C62AA79B}|Assembly-CSharp.csproj|E:\\MY GAMES\\PhotonPUN\\assets\\roommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FB9199-1A0B-DF5D-139B-8120C62AA79B}|Assembly-CSharp.csproj|solutionrelative:assets\\roommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FB9199-1A0B-DF5D-139B-8120C62AA79B}|Assembly-CSharp.csproj|e:\\my games\\photonpun\\assets\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FB9199-1A0B-DF5D-139B-8120C62AA79B}|Assembly-CSharp.csproj|solutionrelative:assets\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FB9199-1A0B-DF5D-139B-8120C62AA79B}|Assembly-CSharp.csproj|E:\\MY GAMES\\PhotonPUN\\assets\\leaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FB9199-1A0B-DF5D-139B-8120C62AA79B}|Assembly-CSharp.csproj|solutionrelative:assets\\leaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FB9199-1A0B-DF5D-139B-8120C62AA79B}|Assembly-CSharp.csproj|E:\\MY GAMES\\PhotonPUN\\assets\\roomlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FB9199-1A0B-DF5D-139B-8120C62AA79B}|Assembly-CSharp.csproj|solutionrelative:assets\\roomlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FB9199-1A0B-DF5D-139B-8120C62AA79B}|Assembly-CSharp.csproj|E:\\MY GAMES\\PhotonPUN\\assets\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FB9199-1A0B-DF5D-139B-8120C62AA79B}|Assembly-CSharp.csproj|solutionrelative:assets\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FB9199-1A0B-DF5D-139B-8120C62AA79B}|Assembly-CSharp.csproj|E:\\MY GAMES\\PhotonPUN\\assets\\roomitembutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FB9199-1A0B-DF5D-139B-8120C62AA79B}|Assembly-CSharp.csproj|solutionrelative:assets\\roomitembutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FB9199-1A0B-DF5D-139B-8120C62AA79B}|Assembly-CSharp.csproj|E:\\MY GAMES\\PhotonPUN\\assets\\playersetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FB9199-1A0B-DF5D-139B-8120C62AA79B}|Assembly-CSharp.csproj|solutionrelative:assets\\playersetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FB9199-1A0B-DF5D-139B-8120C62AA79B}|Assembly-CSharp.csproj|E:\\MY GAMES\\PhotonPUN\\assets\\faceobjecttocamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FB9199-1A0B-DF5D-139B-8120C62AA79B}|Assembly-CSharp.csproj|solutionrelative:assets\\faceobjecttocamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FB9199-1A0B-DF5D-139B-8120C62AA79B}|Assembly-CSharp.csproj|E:\\MY GAMES\\PhotonPUN\\assets\\weaponswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FB9199-1A0B-DF5D-139B-8120C62AA79B}|Assembly-CSharp.csproj|solutionrelative:assets\\weaponswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FB9199-1A0B-DF5D-139B-8120C62AA79B}|Assembly-CSharp.csproj|E:\\MY GAMES\\PhotonPUN\\assets\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FB9199-1A0B-DF5D-139B-8120C62AA79B}|Assembly-CSharp.csproj|solutionrelative:assets\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FB9199-1A0B-DF5D-139B-8120C62AA79B}|Assembly-CSharp.csproj|E:\\MY GAMES\\PhotonPUN\\assets\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FB9199-1A0B-DF5D-139B-8120C62AA79B}|Assembly-CSharp.csproj|solutionrelative:assets\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FB9199-1A0B-DF5D-139B-8120C62AA79B}|Assembly-CSharp.csproj|E:\\MY GAMES\\PhotonPUN\\assets\\sway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FB9199-1A0B-DF5D-139B-8120C62AA79B}|Assembly-CSharp.csproj|solutionrelative:assets\\sway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "E:\\MY GAMES\\PhotonPUN\\Assets\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Weapon.cs",
+              "ToolTip": "E:\\MY GAMES\\PhotonPUN\\Assets\\Weapon.cs",
+              "RelativeToolTip": "Assets\\Weapon.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAIwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:56:44.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomItemButton.cs",
+              "DocumentMoniker": "E:\\MY GAMES\\PhotonPUN\\Assets\\RoomItemButton.cs",
+              "RelativeDocumentMoniker": "Assets\\RoomItemButton.cs",
+              "ToolTip": "E:\\MY GAMES\\PhotonPUN\\Assets\\RoomItemButton.cs",
+              "RelativeToolTip": "Assets\\RoomItemButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T11:28:14.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoomList.cs",
+              "DocumentMoniker": "E:\\MY GAMES\\PhotonPUN\\Assets\\RoomList.cs",
+              "RelativeDocumentMoniker": "Assets\\RoomList.cs",
+              "ToolTip": "E:\\MY GAMES\\PhotonPUN\\Assets\\RoomList.cs",
+              "RelativeToolTip": "Assets\\RoomList.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowC4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:12:08.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Leaderboard.cs",
+              "DocumentMoniker": "E:\\MY GAMES\\PhotonPUN\\Assets\\Leaderboard.cs",
+              "RelativeDocumentMoniker": "Assets\\Leaderboard.cs",
+              "ToolTip": "E:\\MY GAMES\\PhotonPUN\\Assets\\Leaderboard.cs",
+              "RelativeToolTip": "Assets\\Leaderboard.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwC8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:07:47.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sway.cs",
+              "DocumentMoniker": "E:\\MY GAMES\\PhotonPUN\\Assets\\Sway.cs",
+              "RelativeDocumentMoniker": "Assets\\Sway.cs",
+              "ToolTip": "E:\\MY GAMES\\PhotonPUN\\Assets\\Sway.cs",
+              "RelativeToolTip": "Assets\\Sway.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T09:00:40.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeaponSwitcher.cs",
+              "DocumentMoniker": "E:\\MY GAMES\\PhotonPUN\\Assets\\WeaponSwitcher.cs",
+              "RelativeDocumentMoniker": "Assets\\WeaponSwitcher.cs",
+              "ToolTip": "E:\\MY GAMES\\PhotonPUN\\Assets\\WeaponSwitcher.cs",
+              "RelativeToolTip": "Assets\\WeaponSwitcher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:30:32.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FaceObjectToCamera.cs",
+              "DocumentMoniker": "E:\\MY GAMES\\PhotonPUN\\Assets\\FaceObjectToCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\FaceObjectToCamera.cs",
+              "ToolTip": "E:\\MY GAMES\\PhotonPUN\\Assets\\FaceObjectToCamera.cs",
+              "RelativeToolTip": "Assets\\FaceObjectToCamera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T06:47:14.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Health.cs",
+              "DocumentMoniker": "E:\\MY GAMES\\PhotonPUN\\Assets\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Health.cs",
+              "ToolTip": "E:\\MY GAMES\\PhotonPUN\\Assets\\Health.cs",
+              "RelativeToolTip": "Assets\\Health.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:54:33.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MouseLook.cs",
+              "DocumentMoniker": "E:\\MY GAMES\\PhotonPUN\\Assets\\MouseLook.cs",
+              "RelativeDocumentMoniker": "Assets\\MouseLook.cs",
+              "ToolTip": "E:\\MY GAMES\\PhotonPUN\\Assets\\MouseLook.cs",
+              "RelativeToolTip": "Assets\\MouseLook.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:40:52.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerSetup.cs",
+              "DocumentMoniker": "E:\\MY GAMES\\PhotonPUN\\Assets\\PlayerSetup.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerSetup.cs",
+              "ToolTip": "E:\\MY GAMES\\PhotonPUN\\Assets\\PlayerSetup.cs",
+              "RelativeToolTip": "Assets\\PlayerSetup.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAD4v0QAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:47:19.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movement.cs",
+              "DocumentMoniker": "E:\\MY GAMES\\PhotonPUN\\Assets\\Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Movement.cs",
+              "ToolTip": "E:\\MY GAMES\\PhotonPUN\\Assets\\Movement.cs",
+              "RelativeToolTip": "Assets\\Movement.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAswDQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:21:12.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoomManager.cs",
+              "DocumentMoniker": "E:\\MY GAMES\\PhotonPUN\\Assets\\RoomManager.cs",
+              "RelativeDocumentMoniker": "Assets\\RoomManager.cs",
+              "ToolTip": "E:\\MY GAMES\\PhotonPUN\\Assets\\RoomManager.cs",
+              "RelativeToolTip": "Assets\\RoomManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T11:14:01.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
